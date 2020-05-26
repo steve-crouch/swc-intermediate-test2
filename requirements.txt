@@ -1,5 +1,19 @@
-matplotlib
-numpy
-yapf
-pytest
-pytest-cov
+attrs==19.3.0
+certifi==2020.4.5.1
+coverage==5.1
+cycler==0.10.0
+kiwisolver==1.2.0
+matplotlib==3.2.1
+more-itertools==8.3.0
+numpy==1.18.4
+packaging==20.4
+pluggy==0.13.1
+py==1.8.1
+pyparsing==2.4.7
+pytest==5.4.2
+pytest-cov==2.9.0
+python-dateutil==2.8.1
+six==1.15.0
+-e git+https://github.com/steve-crouch/swc-intermediate-test2.git@9a17704dbbda31723482567c3d177bceb8ef21ec#egg=swc_intermediate_test
+wcwidth==0.1.9
+yapf==0.30.0
