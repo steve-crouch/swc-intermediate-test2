@@ -1,5 +1,6 @@
 # IDEs
 .vscode/
+.idea/
 
 # Virtual environments
 env/
@@ -10,3 +11,5 @@ venv/
 
 # Python runtime
 *.pyc
+*.egg-info/
+.coverage
