@@ -2,3 +2,4 @@ matplotlib
 numpy
 yapf
 pytest
+pytest-cov
