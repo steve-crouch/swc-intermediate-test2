@@ -14,6 +14,5 @@ pytest==5.4.2
 pytest-cov==2.9.0
 python-dateutil==2.8.1
 six==1.15.0
--e git+https://github.com/steve-crouch/swc-intermediate-test2.git@9a17704dbbda31723482567c3d177bceb8ef21ec#egg=swc_intermediate_test
 wcwidth==0.1.9
 yapf==0.30.0
